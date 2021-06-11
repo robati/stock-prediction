@@ -1,6 +1,8 @@
 # stock-prediction
 Prediction of google and apple stock price using recurrent neural network
 
-deleted some outputs because the file could not be opened.
+converted the notebook to simple file because the file could not be opened.
 
-TODO:explain the question and code.
+TODO:explain the question
+
+code is commented!
